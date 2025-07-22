@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8&height=300&section=header&text=Irfan%20Faiz&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13&height=300&section=header&text=Irfan%20Faiz&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=51&descAlign=62" />
 </div>
 
 ---
@@ -74,33 +74,16 @@
 
 ---
 
-## 🎯 Current Focus
-
-<div align="center">
-  
-| 🌟 **Learning** | 🚀 **Building** | 🎯 **Goals** |
-|:---:|:---:|:---:|
-| Advanced React Patterns | Full-Stack Applications | Contribute to OSS |
-| Cloud Architecture | Mobile Development | Build SaaS Product |
-| DevOps Practices | API Development | Tech Leadership |
-
-</div>
-
----
-
 ## 🌐 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/irfanfaiz25" target="_blank">
+  <a href="https://linkedin.com/in/ahmadirfanfaiz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/irfanfaiz25" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://instagram.com/irfanfaiz25" target="_blank">
+  <a href="https://instagram.com/irv.faizz" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:irfanfaiz25@gmail.com">
+  <a href="mailto:ahmadirfanfaiz13@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
@@ -111,14 +94,6 @@
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
-
----
-
-## 🎵 Current Mood
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Jokes Card" />
 </div>
 
 ---
