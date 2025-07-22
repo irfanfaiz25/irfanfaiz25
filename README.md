@@ -1,11 +1,11 @@
 # Hi there! I'm Irfan Faiz 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;Software+Developer;Tech+Enthusiast;Always+Learning+New+Things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;Backend+Developer;Fullstack+Developer;Tech+Enthusiast;Always+Learning+New+Things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000">
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Irfan%20Faiz&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8&height=300&section=header&text=Irfan%20Faiz&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=51&descAlign=62" />
 </div>
 
 ---
@@ -14,11 +14,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I'm currently working on **exciting projects**
-- 🌱 I'm currently learning **new technologies**
+- 🔭 I'm currently working on **SavoryAI Recipe Recommendation System**
+- 🌱 I'm currently learning **React.JS**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **anything tech related**
-- 📫 How to reach me: **irfanfaiz25@gmail.com**
+- 📫 How to reach me: **ahmadirfanfaiz13@gmail.com**
 - ⚡ Fun fact: **I love coding and coffee!**
 
 <br clear="both">
@@ -28,7 +28,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,html,css,react,nodejs,express,mongodb,mysql,postgresql,docker,kubernetes,aws,gcp,git,github,vscode,linux&perline=11" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,tailwind,bootstrap,js,html,css,react,mysql,postgresql,git,github,vscode&perline=11" />
 </div>
 
 ---
