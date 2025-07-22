@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Irfan%20Faiz&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=51&descAlign=62" />
 </div>
 
 ---
@@ -62,6 +62,18 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
 ## 🎯 Current Focus
 
 <div align="center">
@@ -103,10 +115,10 @@
 
 ---
 
-## 🎵 Spotify Playing
+## 🎵 Current Mood
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Playing" />
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Jokes Card" />
 </div>
 
 ---
